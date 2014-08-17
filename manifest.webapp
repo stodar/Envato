@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "name": "Envato",
+  "description": "follow the news from Envato ",
+  "launch_path": "/index.html",
+  "icons": {
+    "32": "/images/icon-32.png",
+    "128": "/images/icon-128.png"
+  },
+  "developer": {
+    "name": "DARDAR Saad & DARDAR Mohssine & DARDAR Wail",
+    "url": "http://www.wmsdardar.com"
+  },
+  "permissions": {
+    "push": {
+      "description": "To receive notifications"
+    },
+    "desktop-notification":{
+	  "description": "Desktop notification"
+	}
+  },
+  "default_locale": "en"
+}
